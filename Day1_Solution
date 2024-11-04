@@ -1,1 +1,28 @@
+#!/bin/bash
 
+Task 1 solution:
+                the first line is shebang to tell the system how to execute
+
+Task 2 Solution: 
+                  echo "Hello DevOps Engineer"
+
+Task3 solution:  
+                variable1= "Bash"
+                variable= "Shell"
+
+Task4 Solution: 
+               variable= "Bash"
+                echo" $Bash Hello word"
+
+Task5 Solution: #using built-in variable
+
+                echo" hello DevOps engineer  -$Bash "
+                echo" this in solution task5 -$task"
+                echo" I am DevOps eng -$devops"
+
+Task6 Solution: 
+                echo "Files with .txt extension in the current directory:"
+                ls *.txt
+      
+              
+                 
