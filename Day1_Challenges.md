@@ -1,5 +1,7 @@
 Welcome to Day 1 of the Bash Scripting Challenge! Today, we will cover the basics of bash scripting to get you started. Let's dive in:
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Task 1:** Comments
 In bash scripts, comments are used to add explanatory notes or disable certain lines of code. Your task is to create a bash script with comments explaining what the script does.
 
